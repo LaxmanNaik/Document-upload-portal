@@ -19,10 +19,7 @@ The person can then use it for storing, sharing and working together on multiple
 First clone the repository from Github.
 Activate the virtualenv (if any) for your project.
     
-Install project dependencies:
-
-    $ pip install -r requirements.txt
-    
+Install project dependencies    
     
 Then simply apply the migrations:
 
